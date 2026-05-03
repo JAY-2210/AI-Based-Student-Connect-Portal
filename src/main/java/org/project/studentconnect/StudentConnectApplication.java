@@ -1,0 +1,13 @@
+package org.project.studentconnect;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StudentConnectApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(StudentConnectApplication.class, args);
+    }
+
+}
